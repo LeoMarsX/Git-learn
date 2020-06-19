@@ -1,4 +1,2 @@
-Algorithm/target
-Algorithm/.idea
-Algorithm/out
-Algorithm/*.iml
+Algorithm/*
+!Algorithm/src/
