@@ -47,7 +47,7 @@ public class TexaHoldem {
         Arrays.sort(whiteDigit);
     }
     public int digitCompare(){
-        for(int i=5;i>0;i--){
+        for(int i=4;i>0;i--){
             if(blackDigit[i]==whiteDigit[i]){
                 i--;
                 if(i==0){
